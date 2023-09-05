@@ -13,7 +13,7 @@ The goal of the competition is to develop an AI solution to aid in the diagnosis
 
 # The Challenge Results
 
-## According to the organizer's rules, the challenge was limited to European Union citizens.
+#### Note : According to the organizer's rules, the challenge was limited to European Union citizens.
 * 84 participants from multiple countries around Europe
 * 1451 submissions during the 3 months of the challenge
 * Best F1 Macro score 0.848 on the private portion of the test set
