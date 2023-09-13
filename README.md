@@ -3,13 +3,13 @@
 # Diagnodent data challenge introduction
 This repository contains the [Diagnodent](https://www.trustii.io/post/diagnodent) data challenge result including best notebooks source code and documentation.
 
-The Diagnodent Data Challenge is led by Pr Agnès Bloch-Zupan (PU-PH professor, clinician, rare disease expert, coordinator of the Strasbourg University Hospital, Reference center for rare oral and dental diseases and associated network, researcher at IGBMC, Université de Strasbourg, CNRS- UMR7104, INSERM U1258) and supported by the D-IA-GNO-DENT consortium. This consortium (members below), in partnership with the Health Data Hub, proposes a Data Challenge on the theme of rare dental diseases. 
+The Diagnodent Data Challenge is led by Pr Agnès Bloch-Zupan (PU-PH professor, clinician, rare disease expert, coordinator of the Strasbourg University Hospital, Reference center for rare oral and dental diseases, CRMR O-Rares, and associated network, researcher at IGBMC, Université de Strasbourg, CNRS- UMR7104, INSERM U1258) and supported by the D-IA-GNO-DENT consortium. This consortium (members below), in partnership with the Health Data Hub, proposes a Data Challenge on the theme of rare orodental diseases.
 
-Oral pathologies or anomalies are often the little known expression of rare diseases of genetic origin. These anomalies are receiving increasing attention because of their diagnostic or even predictive character. They are classified into dental anomalies of number, shape, size, structure, root formation and eruption and correspond to specific developmental and genetic problems. They are fixed in time by mineralisation. They are isolated or associated with other symptoms in syndromes.
+Oral pathologies or dental developmental anomalies are often the little known expression of rare genetic diseases. These anomalies are receiving increasing attention because of their diagnostic potential or even predictive character. They are classified into dental anomalies of tooth number, shape, size, mineralized tissue structure, root formation and eruption and correspond to specific developmental and genetic problems. These anomalies are fixed in time by mineralisation. They can be isolated or associated with other symptoms in syndromes.
 
-900 rare diseases have a dento/oro/facial component. Clinical diagnoses and identification of the genes involved are difficult to make and to implement, leading patients and their families into diagnostic wandering. However, there are diagnostic signatures recognised by experts in the field and supported by phenotype/genotype correlations (D4/phenodent database/NGS GenoDENT panel).
+900 rare diseases, among 7000, have a dento/oro/facial component. Clinical diagnoses and identification of the genes involved are difficult to make and to implement, leading patients and their families into diagnostic wandering. However, there are diagnostic signatures recognised by experts in the field and supported by phenotype/genotype correlations (D4/phenodent database/NGS GenoDENT panel).
 
-The goal of the competition is to develop an AI solution to aid in the diagnosis of rare dental diseases based on the analysis of photographs and X-rays of the mouth and teeth. These genetic diseases, which affect multiple organs and systems, are recognised through abnormalities in teeth fixed over time by mineralisation.
+The goal of the competition is to develop an AI solution to aid in the prediagnosis of rare dental diseases based on the analysis of photographs and X-rays of the mouth and teeth. These genetic diseases, which affect multiple organs and systems, are indeed able to be recognized through the proper identification of teeth abnormalities in teeth frozen in time by mineralization.
 
 # The Challenge Results
 
@@ -51,7 +51,9 @@ The dataset has the following caracteristics :
 * texture
 * Shape/size
 
-If you are interested by accessing the dataset or collaborating with Trustii.io and HUS on this project, please reach out to us at contact@trustii.io.
+If you are interested by accessing the dataset of this data challenge, please reach out to dpd@chru-strasbourg.fr
+
+If you have any technical question about the data challenge or algorithms please reach out to challenges@trustii.io
 
 # More information
 
